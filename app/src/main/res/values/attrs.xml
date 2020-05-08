@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyImgScroll">
+        <attr name="dot_radis" format="reference|dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomImageView">
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+</resources>
